@@ -1,0 +1,7 @@
+totally_not_my_privateKeys.db
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+*.pyc
+.DS_Store
